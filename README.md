@@ -1,2 +1,2 @@
 # 10fastfingers-bot
-An automatic fast typing python bot for 10fastfingers site
+Are you frustrated because you are slow on a writing test, here is a bot for you
